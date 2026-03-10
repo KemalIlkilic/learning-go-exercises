@@ -1,0 +1,16 @@
+# Go build cache
+*.out
+*.test
+
+# Dependency directories
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
